@@ -28,16 +28,17 @@ This week focused on preparing my environment for cybersecurity practice.
 - SHA256 / sha256sum
 - USB Bootable Media
   
-  ## Screenshots
+
+### Screenshots 
 
 ### Ubuntu Environment
-![Ubuntu](Screenshot From 2026-11-03 19-12-46.png)
+![Ubuntu](Screenshot%20From%202026-11-03%2019-12-46.png)
 
 ### Kali Linux
-![Kali Linux](screenshots/Screenshot From 2026-11-03 19-33-13.png)
+![Kali Linux](Screenshot%20From%202026-11-03%2019-33-13.png)
 
 ### VirtualBox
-![VirtualBox](screenshots/Screenshot From 2026-11-03 19-18-18.png)
+![VirtualBox](Screenshot%20From%202026-11-03%2019-18-18.png)
 
 ### Challenges & Lessons Learned
 
