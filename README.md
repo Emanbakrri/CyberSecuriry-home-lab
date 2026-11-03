@@ -29,16 +29,16 @@ This week focused on preparing my environment for cybersecurity practice.
 - USB Bootable Media
   
 
-### Screenshots 
+## Screenshots 📸
 
 ### Ubuntu Environment
-![Ubuntu](Screenshot%20From%202026-11-03%2019-12-46.png)
+![Ubuntu](screenshots/ubuntu.png)
 
 ### Kali Linux
-![Kali Linux](Screenshot%20From%202026-11-03%2019-33-13.png)
+![Kali Linux](screenshots/kali.png)
 
 ### VirtualBox
-![VirtualBox](Screenshot%20From%202026-11-03%2019-18-18.png)
+![VirtualBox](screenshots/virtualbox.png)
 
 ### Challenges & Lessons Learned
 
